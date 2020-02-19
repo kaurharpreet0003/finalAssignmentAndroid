@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">phoneBookAssignment</string>
+    <string name="enter_your_information">Enter your Information</string>
+    <string name="save_information">SAVE INFORMATION</string>
+</resources>
